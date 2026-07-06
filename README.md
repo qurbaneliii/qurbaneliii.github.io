@@ -2,6 +2,8 @@
 
 Personal portfolio website for `qurbaneliii`, built for GitHub Pages.
 
+Live URL: <https://qurbaneliii.github.io>
+
 ## Stack
 
 - React
